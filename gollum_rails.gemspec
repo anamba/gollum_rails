@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'activemodel', '>= 3.2.11'
   s.add_dependency 'activesupport', '>= 3.2.11'
-  s.add_dependency 'gollum-lib', '~> 4.2.1'
+  s.add_dependency 'gollum-lib'
 
   s.add_development_dependency 'rspec', '~> 3.1.0'
   s.add_development_dependency 'rails', '>= 3.2.11'
